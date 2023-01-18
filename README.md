@@ -5,8 +5,9 @@ In today’s world, it is normal to receive news from online sources like social
 # INSTALLATION
 
          Install necessary libraries using pip install command in the terminal
+              Example:
                             1. pip install streamlit
             
 # RUNNING APP
    
-      streamlit run appname.py
+          streamlit run appname.py
